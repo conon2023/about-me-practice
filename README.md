@@ -2,7 +2,7 @@
 
 ## Introduction
 This resources were put together by a *truly incredible person*: **Me!**   
-[Click Here to learn more](AboutMe.md)
+[Click Here to learn more](///aboutMe.md)
 
 ***I am your flight captain on the course and would like to welcome every visitor aboard flight Norwich-code-102d5: Intro to Software Development***. 
 
@@ -21,7 +21,7 @@ Enjoy your flight!
 
 ### Table of Contents
 #### Code 201 Reading Notes
-- Class 01: []() [Lab 201 About Me](///aboutMe.md)
+- Class 01: []() [Lab 201 About Me](////aboutMe.md)
 - Class 02: []() []()
 - Class 03: []() []()
 - Class 04: []()
