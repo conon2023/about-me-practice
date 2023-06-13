@@ -1,7 +1,7 @@
 # MY READING NOTES - INTRO TO WEB DEVELOPMENT
 
 ## Introduction
-This resources were put together by a *truly incredible person*: **Me!**   
+These resources were put together by a *truly incredible person*: **Me!**   
 [Click Here to learn more](///aboutMe.md)
 
 ***I am your flight captain on the course and would like to welcome every visitor aboard flight Norwich-code-102d5: Intro to Software Development***. 
